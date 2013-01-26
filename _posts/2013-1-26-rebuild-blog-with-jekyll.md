@@ -22,6 +22,7 @@ A few things I need to work on:
 - Archiving posts
 - Updating layout. I am happy how it is but I always like to tweak things
 - RSS feed. I need to test this to make sure it works
+- Site search
 
 I am excited to start posting more on my rebuilt blog.
 
