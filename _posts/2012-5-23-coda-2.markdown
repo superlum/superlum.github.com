@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Coda 2"
+description: This makes me a very happy developer. I've been waiting for this for a long time.
+---
+
+This makes me a very happy developer. I've been waiting for this for a long time.
+
+Some features that I'm excited about:
+
++ Code folding
++ iCloud syncing
++ Git
++ Visual tabs
++ Automatic indentation
+
+I will definitely try out [Diet Coda](http://itunes.apple.com/us/app/diet-coda/id500906297?mt=8 "Diet Coda") for live preview on my iPad and on the go code editing.
