@@ -24,3 +24,8 @@ A few things I need to work on:
 - RSS feed. I need to test this to make sure it works
 
 I am excited to start posting more on my rebuilt blog.
+
+A few resources that I relied on:
+- [http://in-the-attic.com/2013/01/04/building-a-blog-using-jekyll-bootstrap-and-github-pages-a-beginners-guide/](http://in-the-attic.com/2013/01/04/building-a-blog-using-jekyll-bootstrap-and-github-pages-a-beginners-guide/)
+- [http://brianscaturro.com/2012/06/12/blog-with-jekyll-and-github.html](http://brianscaturro.com/2012/06/12/blog-with-jekyll-and-github.html)
+- [http://createdbypete.com/blog/2012/08/ruby-on-rails-development-with-mac-osx-mountain-lion.html](http://createdbypete.com/blog/2012/08/ruby-on-rails-development-with-mac-osx-mountain-lion.html)
