@@ -5,15 +5,15 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>superlum</title>
- <link href="http://superlum.com/atom.xml" rel="self"/>
- <link href="http://superlum.com/"/>
+ <link href="http://superlum.com/atom.xml" rel="self"></link>
+ <link href="http://superlum.com/"></link>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://superlum.com/</id>
 
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://superlum.com{{ post.url }}"/>
+   <link href="http://superlum.com{{ post.url }}"></link>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>http://superlum.com{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
