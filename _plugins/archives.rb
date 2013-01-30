@@ -10,8 +10,8 @@ module Jekyll
   
   class ArchivePage < Page
     def initialize(site, months, posts_by_month)
-      @site = site
-      @base = site.source
+      #@site = site
+      #@base = site.source
       # I simply write the archives.html file in the _site root
       @dir = "/"
       @name = "archives.html"
