@@ -1,4 +1,4 @@
 server_port: 4000
 permalink: date
-auto: true
+auto: false
 pygments: true
