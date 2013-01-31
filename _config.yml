@@ -1,3 +1,4 @@
 permalink: date
 auto: true
 pygments: true
+paginate: 5

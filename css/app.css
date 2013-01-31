@@ -55,6 +55,7 @@ p.nav-header.a { text-transform: none; font-weight: normal; font-size: 12px; pad
 #logo a {font-size: 36px;}
 .archive-post {margin-bottom: 8px;}
 .archive-post a {padding-left: 8px;}
+#paging {margin-top: 12px;}
 
 @media screen and (max-width:760px) {
     #small-logo { display: block; }
