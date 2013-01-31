@@ -15,4 +15,4 @@ My checklist so far for this blog plus a couple of more things:
 - RSS feed. I need to test this to make sure it works (DONE)
 - Site search
 - Images
-- Pagination
+- Pagination (DONE)
